@@ -1,10 +1,5 @@
 <div align="center">
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=60&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=80&lines=✅+TODO+App;Stay+Focused.;Stay+Productive." alt="TODO App" />
-
-<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js-3.x-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue 3" />
@@ -239,12 +234,6 @@ Feel free to use it as a reference for learning Vue 3 + Vuetify 4.
 ---
 
 <div align="center">
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=18&duration=4000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Built+with+Vue+3+%2B+Vuetify+4+%E2%9C%A8;Glassmorphic+%7C+Animated+%7C+Responsive;Dark+%26+Light+Theme+Included+🌙☀️" alt="Typing SVG" />
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/Made%20with-Vue%203%20%2B%20Vuetify%204-8B5CF6?style=for-the-badge&logo=vue.js" />
 
